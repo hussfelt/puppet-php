@@ -15,6 +15,8 @@ Requires the following boxen modules:
 * `libpng`
 * `mysql`
 * `openssl`
+* `curl`
+* `bzip2`
 
 The following boxen modules are required if optional PHP extensions are used:
 
